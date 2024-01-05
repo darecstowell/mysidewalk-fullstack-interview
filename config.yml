@@ -1,0 +1,4 @@
+input_file_path: ./data/example-list.txt
+output_file_path: ./data/result.txt
+database_path: ./data/data.db
+batch_size: 100
